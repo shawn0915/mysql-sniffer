@@ -10,7 +10,7 @@ MySQL Sniffer 是一个基于 MySQL 协议的抓包工具，实时抓取 MySQLSe
 建议在 centos6.2 及以上编译安装，并用 root 运行。
 
 ### 依赖
-glib2-devel、libpcap-devel、libnet-devel
+glib2-devel(2.28.8)、libpcap-devel(1.4.0)、libnet-devel(1.1.6)
 
 ### 安装
 ```
@@ -84,4 +84,4 @@ MySQL Sniffer 更多使用方式以及 Atlas 等其他技术请关注：我们36
 <img src="http://i.imgur.com/pL4ni57.png" width = "500" alt="2">
 
 ## 感谢
-感谢[yihaoDeng](https://github.com/yihaoDeng), [winkyao](https://github.com/winkyao)对 MySQL Sniffer 的贡献。
+感谢[yihaoDeng](https://github.com/yihaoDeng), [winkyao](https://github.com/winkyao)对 MySQL Sniffer 的贡献!!!
